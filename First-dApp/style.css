@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+div {
+    width: 20%;
+    margin: 100px auto;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(255, 255, 156);
+    color: rgb(52, 52, 52);
+}
+
+input {
+    padding: 5px;
+}
+
+button {
+    width: 100%;
+    font-size: 20px;
+    font-weight: 500;
+    color: rgb(91, 91, 91);
+    background-color: transparent;
+    margin: 10px 0px 5px 0px;
+    padding: 5px 5px;
+}
